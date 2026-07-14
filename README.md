@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains the projects and assignments completed during my Cybersecurity Internship at Decode Labs.
+This repository contains the projects and assignments completed during my Cybersecurity Internship at Decode Labs @decodelabs.
 
 The internship focuses on developing practical cybersecurity and Python programming skills through real-world projects.
 
