@@ -1,0 +1,32 @@
+# Caesar Cipher Encryption & Decryption Tool
+
+## Project Description
+This project was developed as part of the Decode Lab Cybersecurity Internship.
+The objective of this project is to implement a basic encryption and decryption technique using the Caesar Cipher algorithm. The program allows users to enter a message and a shift value, then encrypts the message and decrypts it back to its original form.
+This project demonstrates the fundamental concepts of cryptography, including encryption, decryption, character manipulation, and secure data handling.
+
+##Project Goal
+The main goal of this project is to understand how basic encryption algorithms work by implementing a Caesar Cipher in Java.
+
+##Features
+- Encrypt plain text
+- Decrypt encrypted text
+- User-defined shift value
+- Supports uppercase letters
+- Supports lowercase letters
+- Preserves spaces
+- Preserves numbers
+- Preserves special characters
+- Simple and easy-to-use console interface
+
+##Technologies Used
+- Java
+- Visual Studio Code
+- GitHub
+
+##Author
+
+Khizrah Sheikh
+Cybersecurity Student
+Developed during the Decode Lab Cybersecurity Internship @decodelabs
+.
