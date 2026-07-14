@@ -32,3 +32,7 @@ This project improved my understanding of:
 - Input Validation
 - Python Programming
 - Secure Coding Practices
+
+## Acknowledgement
+
+This project was completed during my Cyber Security Internship at @decodelabs. Thank you to the team for their guidance and support.
