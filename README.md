@@ -9,6 +9,7 @@ The internship focuses on developing practical cybersecurity and Python programm
 ## Technologies Used
 
 - Python
+- Java
 - Git & GitHub
 - Cybersecurity Fundamentals
 
@@ -21,6 +22,15 @@ A Python application that evaluates password strength using:
 - Lowercase Letters
 - Numbers
 - Special Characters
+
+**Technologies:** Python
+
+### Project 2 – Caesar Cipher Encryption & Decryption (Java)
+
+A Java application that encrypts and decrypts text using the Caesar Cipher algorithm. This project demonstrates the fundamentals of cryptography and secure text transformation.
+
+**Technologies:** Java
+
 
 More projects will be added during the internship.
 
